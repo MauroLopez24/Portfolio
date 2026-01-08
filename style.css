@@ -37,7 +37,7 @@ body {
     font-size: 32px;
     font-weight: 800;
     letter-spacing: 1px;
-    background: linear-gradient(90deg, rgba(59,71,231,1) 0%, rgba(179,65,117,1) 45%, rgba(112,63,219,1) 100%);
+    background: #000;
     -webkit-background-clip: text;
     color: transparent;
 }
@@ -147,8 +147,8 @@ body {
 
 .header_main .header_social a:hover svg path,
 .header_main .header_links a:hover {
-    fill: #45488d;
-    color: #45488d;
+    fill: #ffffff;
+    color: #ffffff;
 }
 
 .section-main_main {
@@ -185,7 +185,7 @@ body {
 }
 
 .section-main_main h1 b {
-    background: linear-gradient(90deg, rgba(19,176,245,1) 0%, rgba(123,81,228,1) 45%, rgba(231,15,170,1) 150%);
+    background: #000000;
     -webkit-background-clip: text;
     color: transparent;
     font-weight: 600;
@@ -205,8 +205,8 @@ body {
     min-height: 450px;
     object-fit: hidden;
     border-radius: 400px;
-    padding: 6px;
-    background: linear-gradient(90deg, rgba(19,176,245,1) 0%, rgba(123,81,228,1) 45%, rgba(231,15,170,1) 150%);
+    padding: 0px;
+    box-shadow: 0 0px 5px 2px rgba(0, 0, 0, 0.9);
 }
 
 @media (max-width: 768px) {
@@ -452,7 +452,7 @@ body {
 .section-projects_main .section-projects_cards .section-projects_card .section-projects_card-body span {
     font-size: 14px;
     font-weight: 400;
-    color: #42446e;
+    color: #000000;
     margin-top: auto; 
     display: block;
 }
@@ -735,7 +735,7 @@ body {
 }
 
 .footer .footer_links-wrapp .footer_links-group a:hover, .footer .footer_contact-wrapp .footer_contact-links .footer_contact-links-group a:hover, .footer .footer_contact-wrapp .footer_contact-links .footer_contact-social-group a:hover {
-    color: #45488d;
+    color: #ffffff;
 }
 
 .footer .footer_links-wrapp .footer_links-group p {
@@ -746,7 +746,7 @@ body {
 
 
 .footer .footer_links-wrapp p b {
-    background: linear-gradient(90deg, rgba(19,176,245,1) 0%, rgba(123,81,228,1) 45%, rgba(231,15,170,1) 150%);
+    background: #000;
     -webkit-background-clip: text;
     color: transparent;
     font-weight: 400;
