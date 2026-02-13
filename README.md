@@ -6,7 +6,7 @@ I'm currently strengthening my professional profile by creating my own projects,
 
 🛠️ Technologies and Tools
 
-Java · HTML · CSS · JavaScript · Angular · MySQL · Git · GitHub · NetBeans · VS Code
+Java · HTML · CSS · JavaScript · MySQL · Git · GitHub · NetBeans · VS Codes · C# · SQL Server · Visual Studio · MCV
 -------------------------------------------------------------
 👋 Hola, soy Mauro
 
@@ -16,4 +16,4 @@ Actualmente me encuentro fortaleciendo mi perfil profesional mediante la creaci�
 
 🛠️ Tecnologías y herramientas
 
-Java · HTML · CSS · JavaScript · Angular · MySQL · Git · GitHub · NetBeans · VS Code
+Java · HTML · CSS · JavaScript · MySQL · Git · GitHub · NetBeans · VS Codes · C# · SQL Server · Visual Studio · MCV
